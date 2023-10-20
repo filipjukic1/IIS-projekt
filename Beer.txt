@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Beer>
+<row>
+<title>Super birra ambrata</title>
+<alchool>8%</alchool>
+<description>Amber Abbey Beer. </description>
+</row>
+<row>
+<title>Noel birra bruna</title>
+<alchool>9%</alchool>
+<description>Strong Dark Ale. Seasonal - christmas.</description>
+</row>
+<row>
+<title>Elixir birra demi-sec</title>
+<alchool>10%</alchool>
+<description>Strong Amber Ale.</description>
+</row>
+<row>
+<title>Isaac birra bianca</title>
+<alchool>5%</alchool>
+<description>Witbier. Belgian-style. Flavoured with coriander and orange peel.</description>
+</row>
+<row>
+<title>Wayan birra saison</title>
+<alchool>5.8%</alchool>
+<description>Saison.</description>
+</row>
+<row>
+<title>Nora birra egizia</title>
+<alchool>6.8%</alchool>
+<description>Golden Ale.</description>
+</row>
+<row>
+<title>Xyauy  birra da divano</title>
+<alchool>12%</alchool>
+<description>Amber Strong Ale.</description>
+</row>
+<row>
+<title>Reale birra del Borgo</title>
+<alchool>6.4%</alchool>
+<description>Amber Ale. Inspired by British real ale.</description>
+</row>
+<row>
+<title>Duchessa birra del Borgo</title>
+<alchool>6.2%</alchool>
+<description>Golden Ale.</description>
+</row>
+<row>
+<title>Rodersch</title>
+<alchool>5%</alchool>
+<description>Blond Ale. In the K lsch style. Unfiltered.</description>
+</row>
+<row>
+<title>ArtigianAle</title>
+<alchool>6.2%</alchool>
+<description>Amber Ale.</description>
+</row>
+<row>
+<title>Confine</title>
+<alchool>6%</alchool>
+<description>Porter.</description>
+</row>
+<row>
+<title>Remedios</title>
+<alchool>5%</alchool>
+<description>Witbier. Unfiltered.</description>
+</row>
+<row>
+<title>Jehol</title>
+<alchool>4.8%</alchool>
+<description>Brown Ale.</description>
+</row>
+<row>
+<title>Xtrem</title>
+<alchool>9%</alchool>
+<description>Barley Wine. Unfiltered.</description>
+</row>
+<row>
+<title>Black Mamba</title>
+<alchool>5%</alchool>
+<description>Dark Ale. Unfiltered.</description>
+</row>
+<row>
+<title>Ley Line</title>
+<alchool>6%</alchool>
+<description>Amber Ale. Unfiltered.</description>
+</row>
+<row>
+<title>Omnia</title>
+<alchool>5%</alchool>
+<description></description>
+</row>
+<row>
+<title>Mellis</title>
+<alchool>6%</alchool>
+<description>Pale lager with honey.</description>
+</row>
+<row>
+<title>Regina Nera</title>
+<alchool>7%</alchool>
+<description>Dark lager.</description>
+</row>
+<row>
+<title>Rubinia</title>
+<alchool>7.5%</alchool>
+<description>Amber lager.</description>
+</row>
+<row>
+<title>Contessa Bionda</title>
+<alchool>5.2%</alchool>
+<description>Pale lager.</description>
+</row>
+<row>
+<title>Contessa Weizen</title>
+<alchool>5.2%</alchool>
+<description>Pale wheat beer. Unfiltered.</description>
+</row>
+<row>
+<title>Conte Jack</title>
+<alchool>6.5%</alchool>
+<description>Dark Bock.</description>
+</row>
+<row>
+<title>Montestella </title>
+<alchool>4.9%</alchool>
+<description>Blond Ale. Unfiltered.</description>
+</row>
+<row>
+<title>Ghisa </title>
+<alchool>5%</alchool>
+<description>Dark smoked Ale. Unfiltered.</description>
+</row>
+<row>
+<title>Domm </title>
+<alchool>5%</alchool>
+<description>Pale wheat beer. Unfiltered.</description>
+</row>
+<row>
+<title>Porpora </title>
+<alchool>5.8%</alchool>
+<description>Red Ale. Unfiltered.</description>
+</row>
+<row>
+<title>Lambrate </title>
+<alchool>7%</alchool>
+<description>Amber Ale. Unfiltered.</description>
+</row>
+<row>
+<title>Sant&#x27;Ambroeus </title>
+<alchool>7%</alchool>
+<description>Blond Ale. Unfiltered.</description>
+</row>
+<row>
+<title>Brighella </title>
+<alchool>8%</alchool>
+<description>Amber Ale. Unfiltered. Seasonal - christmas</description>
+</row>
+<row>
+<title>B.I.-Weizen</title>
+<alchool>5%</alchool>
+<description>Pale wheat beer. Unfiltered.</description>
+</row>
+<row>
+<title>Extra Hop</title>
+<alchool>4.8%</alchool>
+<description>Pils. Unfiltered.</description>
+</row>
+<row>
+<title>V d </title>
+<alchool>5.5%</alchool>
+<description>Dark wheat beer. Unfiltered.</description>
+</row>
+<row>
+<title>Tipopils</title>
+<alchool>5.2%</alchool>
+<description>Pils. Unfiltered.</description>
+</row>
+<row>
+<title>Negra!</title>
+<alchool>6.5%</alchool>
+<description>Dark lager. Unfiltered.</description>
+</row>
+<row>
+<title>Prima</title>
+<alchool>6%</alchool>
+<description>Dark lager. Unfiltered.</description>
+</row>
+<row>
+<title>Rossoscura</title>
+<alchool>5.7%</alchool>
+<description>Amber Lager. Unfiltered.</description>
+</row>
+<row>
+<title>Bibock</title>
+<alchool>6.2%</alchool>
+<description>Amber Bock. Unfiltered.</description>
+</row>
+<row>
+<title>Sciresona</title>
+<alchool>6%</alchool>
+<description>Amber Beer. Unfiltered.</description>
+</row>
+<row>
+<title>Ambershock</title>
+<alchool>7%</alchool>
+<description>Amber Doppelbock. Unfiltered.</description>
+</row>
+<row>
+<title>Cassissona</title>
+<alchool>6.5%</alchool>
+<description>Amber Lager flavoured with blackcurrants. Unfiltered.</description>
+</row>
+<row>
+<title>La 5</title>
+<alchool>5.5%</alchool>
+<description>Blond top-fermenting beer. Bottle conditioned.</description>
+</row>
+<row>
+<title>BK </title>
+<alchool>6%</alchool>
+<description>Dark top-fermenting beer. Bottle conditioned. Inspired by English 
+            Bitter.</description>
+</row>
+<row>
+<title>La 9</title>
+<alchool>6.5%</alchool>
+<description>Amber top-fermenting beer. Bottle conditioned. </description>
+</row>
+<row>
+<title>PVK </title>
+<alchool>4.5%</alchool>
+<description>Spiced top-fermenting beer. Bottle conditioned. Made from local 
+            ingredients. </description>
+</row>
+<row>
+<title>Christmas Duck</title>
+<alchool>8.5%</alchool>
+<description>Brown top-fermenting beer. Bottle conditioned. Made from 4 types 
+            of malt and honey. Seasonal - Christmas.</description>
+</row>
+<row>
+<title>Q Lager</title>
+<alchool>4.8%</alchool>
+<description>Pale Lager. Bitterness 28 IBU.</description>
+</row>
+<row>
+<title>Q Weizen</title>
+<alchool>4.5%</alchool>
+<description>Pale wheat beer. Unfiltered. Bitterness 14 IBU.</description>
+</row>
+<row>
+<title>Q Red</title>
+<alchool>6%</alchool>
+<description>Red Ale. Bitterness 30 IBU.</description>
+</row>
+<row>
+<title>Q Special Reserve</title>
+<alchool>8.2%</alchool>
+<description>Amber Strong Ale. Bitterness 35 IBU.</description>
+</row>
+</Beer>

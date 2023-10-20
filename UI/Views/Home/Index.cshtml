@@ -1,0 +1,33 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+
+
+
+<div class="button-container d-flex justify-content-center align-items-center flex-column">
+    <h1 class="mb-5">IIS</h1>
+    <div class="horizontal-buttons">
+        @Html.ActionLink("XSD", "Index", "Servis", new { request = "xsd" }, new { @class = "btn btn-primary m-5" })
+        @Html.ActionLink("RNG", "Index", "Servis", new { request = "relax" }, new { @class = "btn btn-success m-5" })
+        @Html.ActionLink("SOAP - Price", "Index", "Servis", new { request = "soap" }, new { @class = "btn btn-danger" })
+    </div>
+</div>
+
+
+
+<style>
+    .button-container {
+        text-align: center;
+    }
+
+
+
+    .horizontal-buttons {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-wrap: wrap;
+        margin-bottom: 20px;
+    }
+</style>

@@ -1,0 +1,43 @@
+﻿@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+
+@if (ViewBag.Soap == 2)
+{
+    using (Html.BeginForm("RequestSoap", "Servis", FormMethod.Get))
+    {
+        <div class="card">
+            <div class="card-body">
+                <h4 class="card-title">Enter your query price:</h4>
+                <div class="input-group mb-3">
+                    @Html.TextBox("price", null, new { @class = "form-control", placeholder = "Enter price" })
+                    <div class="input-group-append">
+                        <button type="submit" class="btn btn-primary">SEARCH</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="mt-4">
+            @if (!string.IsNullOrEmpty(ViewBag.Result))
+            {
+                <div class="card">
+                    <div class="card-body">
+                        <h5 class="card-title">Search Result:</h5>
+                        <p class="card-text">@ViewBag.Result</p>
+                    </div>
+                </div>
+            }
+        </div>
+    }
+}
+
+
+
+<h2>@ViewBag.Result</h2>
+
+
+
+@Html.ActionLink("RETURN HOME", "Index", "Home", null, new { @class = "btn btn-success mt-5" })
